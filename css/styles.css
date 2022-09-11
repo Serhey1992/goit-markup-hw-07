@@ -5,14 +5,14 @@
     --primary-bcg-color: #ffffff;
 
 }
-html{
+/* html{
     box-sizing: border-box;
 }
 *,
 *::before,
 *::after {
     box-sizing: inherit;
-}
+} */
 h1, h2, h3, p, ul{
     margin: 0px;
     padding: 0px;
