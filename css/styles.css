@@ -46,6 +46,12 @@ h1, h2, h3, p, ul{
     color: #000000;
     text-decoration: none;
 }
+.logo--color{
+    display: inline-block;
+    margin-bottom: 20px;
+
+    color: var(--primary-bcg-color);
+}
 .logo__style {
     color: var(--acent-color);
 }
@@ -423,7 +429,7 @@ body{
     display: flex;
     align-items: baseline;
 }
-.footer-logo {
+/* .footer-logo {
     display: inline-block;
     margin-bottom: 20px;
     width: 145px;
@@ -439,7 +445,7 @@ body{
 }
 .footer-logo:focus {
     color: var(--acent-color);
-}
+} */
 .footer__section{
     list-style: none;
 }
