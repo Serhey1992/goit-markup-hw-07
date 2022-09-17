@@ -20,6 +20,7 @@ body {
   background-color: #ffffff;
   border-bottom: 1px solid #ECECEC;
 }
+
 .page-header__nav {
   display: flex;
   align-items: center;
@@ -32,10 +33,12 @@ body {
   padding-right: 15px;
   width: 1200px;
 }
+
 .conteiner--centering {
   display: flex;
   align-items: center;
 }
+
 .conteiner--centering-baseline {
   display: flex;
   align-items: baseline;

@@ -4,12 +4,13 @@
     padding-left: 15px;
     padding-right: 15px;
     width: 1200px;
-    &--centering{
-        display: flex;
-        align-items: center;
-    }
-    &--centering-baseline{
-        display: flex;
-        align-items: baseline;
-    }
+}
+.conteiner--centering {
+    display: flex;
+    align-items: center;
+}
+
+.conteiner--centering-baseline {
+    display: flex;
+    align-items: baseline;
 }
